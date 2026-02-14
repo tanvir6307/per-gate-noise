@@ -21,11 +21,11 @@ This repository contains the complete codebase, data, and figures for a systemat
 
 ### Key Contributions
 
-1. **Systematic multi-channel benchmarking** — Quantum Teleportation, Grover's Search (3q, 5q), and VQE-optimized QAOA for MaxCut (4q, 6q) evaluated under four physically motivated noise channels (depolarizing, amplitude damping, phase damping, thermal relaxation with readout error).
+1. **Systematic multi-channel benchmarking** - Quantum Teleportation, Grover's Search (3q, 5q), and VQE-optimized QAOA for MaxCut (4q, 6q) evaluated under four physically motivated noise channels (depolarizing, amplitude damping, phase damping, thermal relaxation with readout error).
 
-2. **Per-gate decay rate (λ/G)** — A novel metric that normalizes the exponential fidelity decay constant by total gate count, enabling fair comparison between algorithms with different circuit structures.
+2. **Per-gate decay rate (λ/G)** - A novel metric that normalizes the exponential fidelity decay constant by total gate count, enabling fair comparison between algorithms with different circuit structures.
 
-3. **Hardware validation** — Simulation predictions validated on IBM's 156-qubit `ibm_marrakesh` processor (Heron architecture), achieving Pearson correlation r = 0.981 across 13 circuits.
+3. **Hardware validation** - Simulation predictions validated on IBM's 156-qubit `ibm_marrakesh` processor (Heron architecture), achieving Pearson correlation r = 0.981 across 13 circuits.
 
 4. **11,500 data points** with 25-seed ensemble averaging, bootstrap 95% confidence intervals, and analytical fitting (R² > 0.92 for all 20 algorithm–noise combinations).
 
