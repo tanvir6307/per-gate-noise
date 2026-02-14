@@ -9,8 +9,8 @@
 
 ## Author
 
-**Tanvir Hassan**
-Department of Physics, Jagannath University, Dhaka, Bangladesh
+**Tanvir Hassan**<br>
+Department of Physics, Jagannath University, Dhaka, Bangladesh<br>
 📧 [tanvir6307@gmail.com](mailto:tanvir6307@gmail.com)
 
 ---
