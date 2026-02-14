@@ -35,7 +35,7 @@ from matplotlib.lines import Line2D
 # ══════════════════════════════════════════════════════════════════
 # CONFIGURATION
 # ══════════════════════════════════════════════════════════════════
-IBM_TOKEN = "RhKu4mxf3N8yA0RRABDWyTxYAia2Z4faY5Cp9rtWE54p"
+IBM_TOKEN = "your_token"
 CHANNEL   = "ibm_quantum_platform"
 BACKEND   = "ibm_marrakesh"
 SHOTS     = 8192
@@ -663,3 +663,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
