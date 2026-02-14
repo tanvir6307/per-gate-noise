@@ -72,7 +72,7 @@ This repository contains the complete codebase, data, and figures for a systemat
 
 **Noise channels:** Depolarizing, Amplitude Damping, Phase Damping, Thermal Relaxation (T₁/T₂ + readout error)
 
-### Per-Gate Decay Rate (λ/G) — Novel Metric
+### Per-Gate Decay Rate (λ/G) - Novel Metric
 
 | Algorithm | Depolarizing | Amp. Damping | Phase Damping | Thermal Relax. |
 |-----------|-------------|-------------|--------------|----------------|
