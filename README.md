@@ -269,14 +269,16 @@ This metric captures how efficiently each gate contributes to fidelity loss, ind
 
 ## Citation
 
-If you use this framework or data in your research, please cite:
+If you use this work in your research, please cite:
 
 ```bibtex
 @article{hassan2026pergate,
-  title={Per-Gate Noise Vulnerability of Quantum Algorithms: A Systematic Benchmarking Study Across Multiple Error Channels},
-  author={Hassan, Tanvir},
-  year={2026},
-  note={Menuscript is being processing}
+  author  = {Tanvir Hassan},
+  title   = {Per-Gate Noise Vulnerability of Quantum Algorithms: A Systematic Benchmarking Study Across Multiple Error Channels},
+  journal = {APL Quantum},
+  year    = {2026},
+  doi     = {10.1063/5.0328310},
+  publisher = {AIP Publishing}
 }
 ```
 
